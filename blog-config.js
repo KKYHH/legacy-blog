@@ -17,7 +17,7 @@ module.exports = {
     // link: "https://hudi.blog",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "KKYHH/kkyhh.github.io",
     type: "pathname",
   },
 }
