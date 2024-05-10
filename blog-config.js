@@ -1,5 +1,5 @@
 module.exports = {
-  title: "devBlog",
+  title: "kkyhh.Blog",
   description: "반갑습니다 :) 저는 김용호입니다. 👋",
   author: "KKYHH",
   siteUrl: "https://kkyhh.github.io",
